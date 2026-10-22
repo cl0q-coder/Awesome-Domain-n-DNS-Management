@@ -106,6 +106,10 @@
   [![Stars](https://img.shields.io/github/stars/phoenixlzx/moedns?style=social&color=white)](https://github.com/phoenixlzx/moedns/stargazers)  
   Lightweight Node.js and MongoDB web application interface designed specifically for PowerDNS MySQL database backends.
 
+- 🔍 **[cl0q](https://github.com/cl0q-coder/crawler-node)**  
+  [![Stars](https://img.shields.io/github/stars/cl0q-coder/crawler-node?style=social&color=white)](https://github.com/cl0q-coder/crawler-node/stargazers)  
+  Independent search engine with its own crawler and index; per-site dossiers with tech stack, DNS and hosting data.
+
 ---
 
 ## 🤝 How to Contribute
